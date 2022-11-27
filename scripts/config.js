@@ -1,0 +1,11 @@
+export const CONFIG={
+    BOARD_WIDTH:1358,
+    BOARD_HEIGHT:690,
+    FLOOR:700-100,
+    MAX_ENEMY:3,
+    RIGHT_ARROW:39,
+    LEFT_ARROW:37,
+    Z_key:90,
+    SHIFT_KEY:16,
+    GRAVITY:1,
+}
